@@ -1,0 +1,66 @@
+/* all elements */
+body {
+    font-family: "Arial", sans-serif;
+    color: #6c584c;
+    background-color: #f0ead2;
+}
+
+/* title and headers */
+h1,
+.section-headers {
+    background-color: #dde5b6;
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    margin: 25px 185px;
+}
+
+/* titles of each webpage */
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+/* index page list and section headers */
+.index-list,
+.section-headers {
+    background-color: #dde5b6;
+    font-size: 50px;
+    text-align: center;
+}
+
+/* font size for paragraphs and lists */
+p,
+li {
+    font-size: 25px;
+    padding: 5px;
+    margin: 10px 185px;
+}
+
+/* images */
+img {
+    height: 405px;
+    width: auto;
+    display: block;
+    margin: auto;
+}
+
+/* index page images */
+.img {
+    height: 270px;
+    width: auto;
+    border: 5px;
+    border-style: solid;
+    border-color: #6c584c;
+}
+
+/* align index page elements to centre */
+.index-elements {
+    text-align: center;
+}
+
+/* index page blocks */
+div {
+    display: inline-block;
+    margin: 0px 100px;
+}
